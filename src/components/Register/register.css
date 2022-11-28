@@ -1,0 +1,21 @@
+.register{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    /* display: flex; */
+    background-color: #AAC4FF;
+    padding: 80px;
+}
+form > input{
+    width: 400px;
+}
+form >img{
+    margin-left: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

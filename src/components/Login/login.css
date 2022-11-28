@@ -1,0 +1,21 @@
+.login{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login >form{
+    /* display: flex; */
+    background-color: #AAC4FF;
+    padding: 80px;
+}
+form > input{
+    width: 400px;
+}
+.login > form >img{
+    margin-left: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
